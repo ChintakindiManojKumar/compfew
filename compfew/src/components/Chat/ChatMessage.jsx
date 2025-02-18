@@ -5,7 +5,7 @@ const ChatMessage = ({ message, isUser }) => {
     return (
       <div className="flex items-start justify-end max-w-xl ml-auto">
         <div className="bg-purple-600 p-3 rounded-lg shadow-sm">
-          <p className="text-white">{message}</p>
+          <p className="">{message}</p>
         </div>
       </div>
     );

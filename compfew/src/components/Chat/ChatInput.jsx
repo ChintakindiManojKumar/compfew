@@ -12,7 +12,7 @@ const ChatInput = ({ onSendMessage }) => {
   };
 
   return (
-    <div className="bg-white p-4 border-t border-gray-200">
+    <div className="bg-white  border-t border-gray-200">
       <form onSubmit={handleSubmit} className="flex items-center space-x-2">
         <button type="button" className="p-2 hover:bg-gray-100 rounded transition-colors duration-200">
           <span>🎭</span>

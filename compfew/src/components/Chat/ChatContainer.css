@@ -1,0 +1,13 @@
+.parent-flex {
+    display: flex;
+    flex-direction: column;
+    height: 500px; /* Set the height for the parent container */
+    justify-content: space-between;
+    
+  }
+  
+  .bottom-content {
+    background-color: #fff;
+    padding-left: 500px;
+  }
+  
